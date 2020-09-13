@@ -1,2 +1,2 @@
 # RealityBit
-An AR based project
+An AR based Educational app
