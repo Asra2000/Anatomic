@@ -1,2 +1,2 @@
-# RealityBit
+# Anatomic
 An AR based Educational app
